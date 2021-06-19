@@ -17,7 +17,7 @@ Hello world.
 
 ==========================================
 
-What is dimensions?/n
+What is dimensions?
 Zero, One, Two, and Three
 Properties of form or shape.
 Point to a Line to (x, y) and z.
